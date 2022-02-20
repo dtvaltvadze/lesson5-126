@@ -1,0 +1,114 @@
+/*header*/
+
+body {
+	height: 1440px;
+}
+.header-wrapper {
+	width: 1440px;
+	height: 50px;
+	margin: 0 auto;
+	
+}
+.logo {
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 92px;
+	margin-top: 18px;
+	text-transform: uppercase;
+	color: red;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+	margin:  0 auto;
+	padding: 27px;
+	text-transform: uppercase;
+}
+.header-image {
+	width: 30px;
+	margin: 0 auto;
+}
+.container {
+	width: 1160px;
+	height: 410px;
+	margin: 0 auto;
+}
+.block1,
+.block2,
+.block3 {
+	display: inline-block;
+	width: 360px;
+	
+}
+.block2 {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.text1 {
+	text-transform: uppercase;
+	margin-top: 25px;
+	margin-bottom: 40px;
+}
+
+.text {
+	width: 280px;
+	margin-left: 40px;
+	margin-top: 66px;
+	margin-bottom: 66px;
+	margin-right: 40px;
+}
+.container1 {
+	width: 1160px;
+	margin: 0 auto;
+}
+
+.text2 {
+	margin-left: 140px;
+	text-transform: uppercase;
+}
+
+.image-text {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	right: 40px;
+	color: white;
+}
+.image-wrapper {
+	position: relative;
+}
+.left-block {
+	width: 760px;
+	height: 900px;
+	position: relative;
+}
+.image-text1 {
+	left: 569px;
+	top: 397px;
+	right: 10px;
+	bottom: 10px;
+	color: white;
+	position: absolute;
+}
+.image4 {
+	margin-bottom: 40px;
+}
+.right-block {
+	width: 365px;
+	height: 845px;
+	position: relative;
+}
+.image-text2 {
+	top: 18px;
+	left: 40px;
+	position: absolute;
+	color: white;
+}
+.text {
+	font-family: 'Pacifico';
+}
+.text1 {
+	font-family: 'Lobster', cursive;
+}
